@@ -1,0 +1,2 @@
+# Leaderboard
+Mahjong Leaderboard
